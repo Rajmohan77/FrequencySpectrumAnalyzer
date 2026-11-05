@@ -1,0 +1,4 @@
+com\frequency\SignalGenerator.class
+com\frequency\Main.class
+com\frequency\FFTAnalyzer.class
+com\frequency\PeakDetector.class
