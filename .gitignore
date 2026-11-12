@@ -1,6 +1,6 @@
-
 # Maven generated files
 **/target/
+target/
 
 # Eclipse files
 **/.classpath
@@ -10,6 +10,14 @@
 # IDE files
 .idea/
 *.iml
+.vscode/
 
 # Java compiled files
 *.class
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
