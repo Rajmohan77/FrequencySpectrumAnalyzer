@@ -24,4 +24,4 @@ jobs:
 
       - name: Build and test using Maven
         run: mvn -B clean test
-        working-directory: eclipse-workspace/FrequencySpectrumAnalyzer
+       
